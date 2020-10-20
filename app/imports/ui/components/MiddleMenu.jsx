@@ -5,7 +5,7 @@ export default class TopMenu extends React.Component {
   render() {
     return (
 
-        <Grid centered container columns={5}>
+        <Grid centered container columns={9}>
           <Grid.Column>
             <Dropdown text='MEN'>
               <Dropdown.Menu>
