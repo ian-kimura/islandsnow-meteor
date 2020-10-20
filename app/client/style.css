@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Rock-Salt&display=swap');
+
+body{
+  font-family: 'Rock Salt', sans-serif;
+}
+
+.FooterMenu {
+  padding-top: 10px;
+}
+
+.FullWidthImage {
+  padding-bottom: 10em;
+}
+
+.container.fluid{
+  padding-top: 25px;
+}
+
+.footer-background {
+  background-color: #292929;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
